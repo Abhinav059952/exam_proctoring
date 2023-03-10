@@ -1,6 +1,3 @@
-# exam_proctoring
-Assignment_Round2_eLitmus_SoftwareAssociate_Intern
-
 <h1>
 Backend
 </h1>
